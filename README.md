@@ -2,7 +2,7 @@
 - 👀 I’m interested in create apps and games.
 - 🌱 I’m currently learning lua and C.
 - 💞️ I’m looking to collaborate on Roblox.
-- 📫 How to reach me: go on a plataform called Roblox, search "Davicraft123_4" and talk with me.
+- 📫 How to reach me: acess https://www.youtube.com/@dArroba_vi
 - 😄 Pronouns: He, ele.
 - ⚡ Fun fact: i'm Brazilian!
 
