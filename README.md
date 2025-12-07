@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaviAlmada-MensaBrasilJB
 - 👀 I’m interested in create apps and games.
-- 🌱 I’m currently learning lua and Java.
-- 💞️ I’m looking to collaborate on Roblox.
+- 🌱 I’m currently learning C++ and Java.
+<!--- 💞️ I’m looking to collaborate on Roblox.--->
 - 📫 How to reach me: acess https://www.youtube.com/@dArroba_vi
 - 😄 Pronouns: He, ele.
 - ⚡ Fun fact: i'm Brazilian!
