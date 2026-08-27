@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaviAlmada-MensaBrasilJB
 - 👀 I’m interested in create apps and games.
-- 🌱 I’m currently learning C++ and Java.
+- 🌱 I’m currently learning P5.js.
 <!--- 💞️ I’m looking to collaborate on Roblox.--->
 - 📫 How to reach me: acess https://www.youtube.com/@dArroba_vi
 - 😄 Pronouns: He, ele.
