@@ -1,4 +1,4 @@
-Hello, i am a human and i do some simple things, like a programming language from scratch. /
+Hello, i am a human and i do some simple things, like a programming language from scratch.\
 Also, i am Brazilian.
 
 <!---- 👋 Hi, I’m @DaviAlmada-MensaBrasilJB--->
